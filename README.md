@@ -1,5 +1,15 @@
 # Pytorch First Lesson
 
+## Getting Started
+
+Type this into the command line:
+```shell
+git clone git@github.com:stuyai/FirstPytorch.git
+cd FirstPytorch
+python -m venv venv
+pip install -r requirements.txt
+```
+
 ## Resources
 
 - More information on Batch Normalization [(here)](https://www.youtube.com/watch?v=DtEq44FTPM4&ab_channel=CodeEmporium)
