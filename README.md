@@ -6,6 +6,7 @@ Type this into the command line:
 ```shell
 git clone git@github.com:stuyai/FirstPytorch.git
 cd FirstPytorch
+source venv/bin/activate
 python -m venv venv
 pip install -r requirements.txt
 ```
