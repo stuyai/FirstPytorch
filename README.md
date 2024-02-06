@@ -4,7 +4,7 @@
 
 Type this into the command line:
 ```shell
-git clone [git@github.com:stuyai/FirstPytorch.git](https://github.com/stuyai/FirstPytorch.git)
+git clone https://github.com/stuyai/FirstPytorch.git
 cd FirstPytorch
 python -m venv venv
 source venv/bin/activate
